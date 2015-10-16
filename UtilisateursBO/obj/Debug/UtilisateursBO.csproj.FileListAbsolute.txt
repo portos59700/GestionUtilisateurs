@@ -1,0 +1,5 @@
+c:\users\win7vitual\documents\visual studio 2010\Projects\GestionUtilisateurs\UtilisateursBO\obj\Debug\ResolveAssemblyReference.cache
+c:\users\win7vitual\documents\visual studio 2010\Projects\GestionUtilisateurs\UtilisateursBO\bin\Debug\UtilisateursBO.dll
+c:\users\win7vitual\documents\visual studio 2010\Projects\GestionUtilisateurs\UtilisateursBO\bin\Debug\UtilisateursBO.pdb
+c:\users\win7vitual\documents\visual studio 2010\Projects\GestionUtilisateurs\UtilisateursBO\obj\Debug\UtilisateursBO.dll
+c:\users\win7vitual\documents\visual studio 2010\Projects\GestionUtilisateurs\UtilisateursBO\obj\Debug\UtilisateursBO.pdb

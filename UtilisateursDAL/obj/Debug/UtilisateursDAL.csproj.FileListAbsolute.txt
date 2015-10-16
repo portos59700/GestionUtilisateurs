@@ -1,0 +1,7 @@
+c:\users\win7vitual\documents\visual studio 2010\Projects\GestionUtilisateurs\UtilisateursDAL\bin\Debug\UtilisateursDAL.dll
+c:\users\win7vitual\documents\visual studio 2010\Projects\GestionUtilisateurs\UtilisateursDAL\bin\Debug\UtilisateursDAL.pdb
+c:\users\win7vitual\documents\visual studio 2010\Projects\GestionUtilisateurs\UtilisateursDAL\obj\Debug\ResolveAssemblyReference.cache
+c:\users\win7vitual\documents\visual studio 2010\Projects\GestionUtilisateurs\UtilisateursDAL\obj\Debug\UtilisateursDAL.dll
+c:\users\win7vitual\documents\visual studio 2010\Projects\GestionUtilisateurs\UtilisateursDAL\obj\Debug\UtilisateursDAL.pdb
+c:\users\win7vitual\documents\visual studio 2010\Projects\GestionUtilisateurs\UtilisateursDAL\bin\Debug\UtilisateursBO.dll
+c:\users\win7vitual\documents\visual studio 2010\Projects\GestionUtilisateurs\UtilisateursDAL\bin\Debug\UtilisateursBO.pdb
